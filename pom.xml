@@ -13,6 +13,7 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
   <!--My new dependancy -->
+  <!--My new change from lstance -->
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
